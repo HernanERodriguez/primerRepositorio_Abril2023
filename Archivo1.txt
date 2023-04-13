@@ -1,7 +1,9 @@
 Archivo1
 Agregado en Tarea1
 Segunda linea
+Agregado en Ticket2
 Agregado en TareaA
 Tercera Linea
 Agregado en TareaA y Tarea2
 Agregado en TareaA
+Tercera Linea
